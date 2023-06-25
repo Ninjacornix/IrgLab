@@ -1,0 +1,20 @@
+[submodule "irgLab/dependencies/glm"]
+	path = irgLab/dependencies/glm
+	url = https://github.com/g-truc/glm.git
+	branch = master
+[submodule "irgLab/dependencies/glfw"]
+	path = irgLab/dependencies/glfw
+	url = https://github.com/glfw/glfw.git
+	branch = master
+[submodule "irgLab/dependencies/glad"]
+	path = irgLab/dependencies/glad
+	url = https://github.com/Dav1dde/glad.git
+	branch = c
+[submodule "irgLab/dependencies/assimp"]
+	path = irgLab/dependencies/assimp
+	url = https://github.com/assimp/assimp.git
+	branch = master
+[submodule "irgLab/dependencies/stb"]
+	path = irgLab/dependencies/stb
+	url = https://github.com/nothings/stb.git
+	branch = master
